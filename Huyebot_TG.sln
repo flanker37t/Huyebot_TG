@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huyebot_TG", "Huyebot_TG\Huyebot_TG.csproj", "{F700AF18-6D9D-451A-81C6-05C5A2B95140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F700AF18-6D9D-451A-81C6-05C5A2B95140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F700AF18-6D9D-451A-81C6-05C5A2B95140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F700AF18-6D9D-451A-81C6-05C5A2B95140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F700AF18-6D9D-451A-81C6-05C5A2B95140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A807C8A2-A781-4A75-9D7D-A0940E57E0C3}
+	EndGlobalSection
+EndGlobal
